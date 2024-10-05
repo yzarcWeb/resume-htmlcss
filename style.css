@@ -1,0 +1,63 @@
+
+body{
+    background-color: #393E46;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #393E46;
+}
+.body-container{
+    width: 100%;
+    margin: 0;
+
+}
+.info-container{
+    background-color: #EEEEEE;
+    margin: 0;
+}
+hr{
+    border: 1px solid #393E46;
+}
+.header{
+    background-color: #393E46;
+    color: #EEEEEE;
+    text-align: center;
+    border: 1px solid #EEEEEE;
+    border-width: 2px 2px 0px 2px;
+    
+}
+
+#res-pic{
+    padding-top: 10px;
+}
+.header-name{
+    margin: 0;
+    padding-top: 5px;
+}
+.header-info{
+    margin: 0;
+}
+h3{
+    margin: 0;
+    padding: 10px 200px;
+}
+.objective-info{
+    margin: 0;
+    padding: 0px 200px;
+    text-align: justify;
+}
+.job-container{
+    margin: 0;
+    padding: 0px 200px;
+    text-align: justify;
+}
+.exp-container{
+    margin: 0;
+    padding: 0px 200px;
+    text-align: justify; 
+}
+.skill-container{
+    margin: 0;
+    text-align: center; 
+}
