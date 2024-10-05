@@ -40,21 +40,21 @@ hr{
 }
 h3{
     margin: 0;
-    padding: 10px 200px;
+    padding: 10px 50px;
 }
 .objective-info{
     margin: 0;
-    padding: 0px 200px;
+    padding: 0px 50px;
     text-align: justify;
 }
 .job-container{
     margin: 0;
-    padding: 0px 200px;
+    padding: 0px 50px;
     text-align: justify;
 }
 .exp-container{
     margin: 0;
-    padding: 0px 200px;
+    padding: 0px 50px;
     text-align: justify; 
 }
 .skill-container{
